@@ -8,14 +8,14 @@ export default {
   theme: {
     extend: {
       colors:{
-        primary: "#ffc727",
-        dark:"#111111",
+        primary: "#FF7A00",
+        secondary:"#2E2E2E",
       },
       container: {
         center:true,
         padding: {
-          DEFAULT: "1rem",
-          sm:"3rem"
+          DEFAULT: "2rem",
+          sm:"1rem"
         },
       }, 
     },
