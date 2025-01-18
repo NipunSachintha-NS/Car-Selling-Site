@@ -19,9 +19,9 @@ const Navbar = () => {
             </div>
             <div className='hidden md:flex items-center gap-8 font-medium text-xl'>
                 <a href='/' className='hover:text-primary transition duration-200 ease-linear'>Home</a>
-                <a href='/' className='hover:text-primary transition duration-200 ease-linear'>About Us</a>
-                <a href='/' className='hover:text-primary transition duration-200 ease-linear'>Our Cars</a>
-                <a href='/' className='hover:text-primary transition duration-200 ease-linear'>Servicess</a>
+                <a href='/about' className='hover:text-primary transition duration-200 ease-linear'>About Us</a>
+                <a href='/cars' className='hover:text-primary transition duration-200 ease-linear'>Our Cars</a>
+                <a href='/services' className='hover:text-primary transition duration-200 ease-linear'>Servicess</a>
                 
                 <button className='hidden lg:flex border-2 border-primary text-lg px-4 rounded-md hover:bg-primary transition duration-200 ease-linear'>Sign In</button>
             </div>
