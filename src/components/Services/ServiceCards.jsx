@@ -6,10 +6,7 @@ const ServiceCards = ({icon, title}) => {
       <p>{icon}</p>
       <h1 className='text-primary text-3xl font-bold'>{title}</h1>
       <p className='text-sm'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, at 
-        sint magni maxime deleniti quos inventore nam corrupti velit ut
-        eligendi.Modi, obcaecati? At consequatur, ullam mollitia sunt fuga
-        ducimus?
+      We offer comprehensive services for your vehicle to ensure optimal performance and longevity. Whether it's maintaining your tires, optimizing the exhaust system, or performing essential brake repairs, our team is dedicated to keeping your car running smoothly and efficiently.
       </p>
     </div>
   )
