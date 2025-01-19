@@ -7,7 +7,7 @@ const CarsCard = ({id, img, name, price}) => {
       <img src={img} alt='img' />
       <h1 className='font-bold text-xl pl-5 text-primary'>{name}</h1>
       <p className='pl-5 pb-4'>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, perspiciatis.
+        The {name} combines luxury and performance with a stylish design and advanced features. Perfect for those who seek comfort and innovation in every drive.
       </p>
 
       <div className='flex justify-between px-6 pb-2'>
