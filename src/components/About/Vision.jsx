@@ -14,15 +14,14 @@ const Vision = () => {
                 Empower individuals to achieve sustainable mobility solutions and 
                 inspire a positive impact on the environment
             </h2>
-            <p className='text-sm lg:text-base'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis, magnam?</p>
-
             <p className='text-sm lg:text-base'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
-                esse consequuntur veritatis quos? Tenetur quae esse quia commodi,
-                reprehenderit aut eius enim adipisci dicta quos recusandae illo facere ea 
-                necessitatibus.
+                At WheelsDeal, we envision a world where every individual has access to reliable and eco-friendly transportation. We strive to offer sustainable mobility solutions that not only make transportation easier but also leave a positive mark on our environment. Our goal is to empower individuals to make informed decisions about their vehicles, ensuring that each purchase contributes to a cleaner and more sustainable future.
+            </p>
+            <p className='text-sm lg:text-base'>
+                We believe in innovation, customer satisfaction, and taking responsibility for the impact we create. By offering a diverse range of eco-friendly vehicles, we aim to inspire change in how people view transportation. Our vision goes beyond selling cars – we’re about creating a community of environmentally conscious individuals driving towards a brighter future.
             </p>
         </div>
+
      
     </div>
   )
