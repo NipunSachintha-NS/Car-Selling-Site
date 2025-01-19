@@ -6,7 +6,7 @@ const WhyUsCard = ({icon, title}) => {
       <p>{icon}</p>
       <h1 className='text-primary text-3xl font-bold'>{title}</h1>
       <p className='text-sm'>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis est minus eveniet enim obcaecati ad. Labore eos numquam dolorem voluptatem!
+         Choose us for exceptional options, trusted support, and a fast, hassle-free journey.
       </p>
 
       

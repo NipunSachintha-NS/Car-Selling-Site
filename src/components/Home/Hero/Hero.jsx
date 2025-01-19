@@ -9,9 +9,9 @@ const Hero = () => {
                 <h1 className='text-4xl lg:text-6xl font-bold leading-tight'>Find Your Perfect Ride Today</h1>
                 <p className='text-lg lg:text-2xl font-medium'>Over 1000+ New Cars Available Hero</p>
                 <p className='text-sm lg:text-base'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Laborum, accusantium? Est eligendi facere facilis corporis 
-                    laboriosam ullam tempore perferendis at!
+                    Whether you're looking for speed, style, or practicality, we have 
+                    over 1000+ cars waiting for you. Start your journey with confidence
+                    and drive the car of your dreams.
                 </p>
 
                 <div className='flex gap-8'>

@@ -13,7 +13,7 @@ const WhyUs = () => {
     <div className='flex flex-col justify-center container md:mt-16 py-10'>
       <h1 className='font-bold text-4xl text-center'>Why choose <span>WheelsDeal </span>?</h1>
 
-      <p className='text-center'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias, aperiam?</p>
+      <p className='text-center py-4'> Discover the best automotive deals, outstanding customer service, and a seamless experience.</p>
       
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-10 gap-5'>
         <WhyUsCard icon={icon1} title="Financing Option"/>

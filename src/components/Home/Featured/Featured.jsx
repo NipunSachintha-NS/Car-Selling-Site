@@ -86,7 +86,7 @@ const Featured = () => {
     <div className='container mt-14'>
         <h1 className='font-bold text-4xl text-center'>Featured <span className='text-primary'>Cars</span></h1>
 
-        <p className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, fugiat?</p>
+        <p className='text-center py-4'>Discover the finest cars available at the best prices. Each model represents the epitome of luxury and performance.</p>
 
         <div className='mt-8'>
             <Slider {...settings}>

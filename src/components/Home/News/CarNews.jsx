@@ -78,7 +78,8 @@ const CarNews = () => {
     <div className='container mt-14'>
       <h1 className='font-bold text-4xl text-center'>Cars <span className='text-primary'>News & Advices</span></h1>
 
-      <p className='text-center'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloribus, obcaecati.</p>
+      <p className='text-center py-4'>Stay updated with the latest trends, news, and expert advice in the automobile industry. 
+      From innovations in electric vehicles to the latest car launches, we bring you the best insights.</p>
       
       <div className='mt-8'>
         <Slider {...settings}>

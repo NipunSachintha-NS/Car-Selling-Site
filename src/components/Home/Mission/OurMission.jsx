@@ -18,11 +18,11 @@ const OurMission = () => {
                 <h2 className='font-semibold text-lg lg:text-2xl'>Enpower individuals to achieve sustainable mobility solutions and inspire a
                     positive impact on the environment.
                 </h2>
-                <p className='text-sm lg:text-base'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, laboriosam?</p>
+                <p className='text-sm lg:text-base'>  Our mission is to redefine the car-buying experience by offering innovative solutions that are tailored to every individual's needs. 
+                We aim to make your journey seamless, convenient, and filled with value.</p>
 
-                <p className='text-sm lg:text-base'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum rem non reiciendis vel soluta minima, 
-                    corporis repellat harum quae reprehenderit dolor earum perferendis odit error praesentium laborum, 
-                    eligendi quis impedit!
+                <p className='text-sm lg:text-base'>Beyond providing vehicles, we are dedicated to fostering a sustainable future by promoting eco-friendly practices and empowering 
+                communities to make informed decisions about mobility. Together, we drive towards a greener tomorrow.
                 </p>
             </div>
         </div>
