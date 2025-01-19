@@ -4,6 +4,7 @@ import Hero from '../components/Home/Hero/Hero'
 import Featured from '../components/Home/Featured/Featured'
 import WhyUs from '../components/Home/WhyUs/WhyUs'
 import OurMission from '../components/Home/Mission/OurMission'
+import CarNews from '../components/Home/News/CarNews'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Featured/>
       <WhyUs/>
       <OurMission/>
+      <CarNews/>
     </>
   )
 }
