@@ -38,9 +38,9 @@ const Navbar = () => {
 
         <div className= {`${menu ? "translate-x-0" : "-translate-x-full"} md:hidden flex flex-col absolute bg-secondary text-white left-o top-16 font-semibold text-2xl text-center pt-8 pb-4 gap-8 w-3/4 h-fit rounded-br-xl transition-transform duration-300`}> 
                 <a href='/' className='hover:text-primary transition duration-200 ease-linear'>Home</a>
-                <a href='/' className='hover:text-primary transition duration-200 ease-linear'>About Us</a>
-                <a href='/' className='hover:text-primary transition duration-200 ease-linear'>Our Cars</a>
-                <a href='/' className='hover:text-primary transition duration-200 ease-linear'>Servicess</a>
+                <a href='/about' className='hover:text-primary transition duration-200 ease-linear'>About Us</a>
+                <a href='/cars' className='hover:text-primary transition duration-200 ease-linear'>Our Cars</a>
+                <a href='/services' className='hover:text-primary transition duration-200 ease-linear'>Servicess</a>
         </div>
      </header>
   )
