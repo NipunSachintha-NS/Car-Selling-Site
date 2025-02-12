@@ -28,4 +28,13 @@ npm install
 npm run dev
 ```
 
-Thank you for visiting the repository! Feel free to explore and share feedback 🌟
+## 🎨 Screenshots
+
+![image](https://github.com/user-attachments/assets/c4b0a74f-2ef2-4c3e-9da2-1607b450285b)
+
+![image](https://github.com/user-attachments/assets/759de536-c8f0-4926-9d15-afa7f4a19421)
+
+![image](https://github.com/user-attachments/assets/2c31b812-bc4a-4613-b5d8-e74ccb653c50)
+
+
+## Thank you for visiting the repository! Feel free to explore and share feedback 🌟
